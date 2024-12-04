@@ -30,7 +30,7 @@ Feel free to check them out which is hosted at my public GitHub Repo and give fe
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![NageenaSuman GitHub Stats](https://github-readme-stats.vercel.app/api?username=NageenaSuman&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
 
