@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Nageena Suman....
+![Header](./github-header.png)
 
 Welcome to my GitHub profile! I'm a Senior Software QA Engineer passionate about market trending Technologies and automation. I love exploring new technologies and constantly learning to enhance my skills.
 
@@ -38,4 +38,4 @@ Feel free to check them out which is hosted at my public GitHub Repo and give fe
   
 Thanks for visiting my profile! 😊
 
-![Header](./github-header.png)
+
