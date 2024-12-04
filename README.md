@@ -34,6 +34,6 @@ Feel free to check them out which is hosted at my public GitHub Repo and give fe
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile URL](https://www.linkedin.com/in/nageena-suman-qaengineer)
+- [LinkedIn](https://www.linkedin.com/in/nageena-suman-qaengineer)
   
 Thanks for visiting my profile! 😊
